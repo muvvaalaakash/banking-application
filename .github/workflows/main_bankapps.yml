@@ -64,3 +64,4 @@ jobs:
           app-name: 'bankapps'
           slot-name: 'Production'
           publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F280A130532444FFA4A02BC833D2B67D }}
+          
